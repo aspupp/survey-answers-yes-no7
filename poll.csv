@@ -1,0 +1,11 @@
+name,city,q1_like_python,q2_do_sport,q3_have_pet,q4_drink_coffee
+Alice,Almaty,yes,no,yes,yes
+Bob,Astana,yes,yes,no,no
+Carol,Almaty,no,yes,yes,yes
+David,Shymkent,yes,yes,yes,no
+Eva,Astana,no,no,no,yes
+Frank,Almaty,yes,yes,no,yes
+Grace,Shymkent,no,no,yes,no
+Hana,Astana,yes,yes,yes,yes
+Ivan,Almaty,yes,no,no,no
+Julia,Shymkent,yes,yes,yes,yes
