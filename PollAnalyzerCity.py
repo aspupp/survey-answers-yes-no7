@@ -25,4 +25,4 @@ class PollAnalyzerCity:
     def save_by_city(self):
         if self.by_city is not None:
             self.by_city.to_csv("by_city.csv", index=False)
-            print("\nФайл by_city.csv сохранён")
+            print("\nФайл by_city.csv сохранён.")
